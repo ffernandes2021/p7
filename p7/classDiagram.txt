@@ -1,0 +1,16 @@
+@startuml classDiagram
+
+    skinparam classAttributeIconSize 0
+
+    class JButton <<class>> {        
+        + getAccessibleContext(): AccessibleContext        
+        + getUIClassID(): String
+        + isDefaultButton(): boolean
+        + isDefaultCapable(): boolean
+        # paramString(): String
+        + removeNotify()
+        + setDefaultCapable(defaultCapable: boolean)
+        + updateUI()
+    }
+
+@enduml
