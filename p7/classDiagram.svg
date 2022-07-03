@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="814.5833px" preserveAspectRatio="none" style="width:361px;height:814px;background:#00000000;" version="1.1" viewBox="0 0 361 814" width="361.4583px" zoomAndPan="magnify"><defs/><g><!--MD5=[535aab4de90d4dfa371a9b40d5438fc3]
+cluster javax.swing--><g id="cluster_javax.swing"><rect fill="#F4A1A4" height="595.8333" rx="4.1667" ry="4.1667" style="stroke:#6CC3D5;stroke-width:2.0833333333333335;" width="327.0833" x="17.7083" y="17.7083"/><path d="M178.125,17.7083 L178.125,45.0846 L167.7083,55.5013 L17.7083,55.5013 " fill="none" style="stroke:#6CC3D5;stroke-width:2.0833333333333335;"/><text fill="#6CAF9C" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="139.5833" x="26.0417" y="43.2963">javax.swing</text></g><!--MD5=[f04ff07c554a60e992b10b498254acb7]
+cluster javax.accessibility--><g id="cluster_javax.accessibility"><rect fill="#F4A1A4" height="130.2083" rx="4.1667" ry="4.1667" style="stroke:#6CC3D5;stroke-width:2.0833333333333335;" width="245.8333" x="104.1667" y="672.9167"/><path d="M343.75,672.9167 L343.75,700.293 L333.3333,710.7096 L104.1667,710.7096 " fill="none" style="stroke:#6CC3D5;stroke-width:2.0833333333333335;"/><text fill="#6CAF9C" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="218.75" x="112.5" y="698.5046">javax.accessibility</text></g><!--MD5=[a0e9553f60b97bc04d2ee2be969fda88]
+class JButton--><g id="elem_JButton"><rect codeLine="8" fill="#86C8B5" height="376.9267" id="JButton" rx="4.1667" ry="4.1667" style="stroke:#78C2AD;stroke-width:1.0416666666666667;" width="292.7083" x="34.8958" y="219.7917"/><ellipse cx="148.9583" cy="249.6816" rx="10.4167" ry="10.4167" style="stroke:#6CAF9C;stroke-width:1.0416666666666667;fill:none;"/><path d="M150.8626,254.1087 Q150.4395,254.3203 149.9674,254.4342 Q149.4954,254.5481 148.9909,254.5481 Q147.1354,254.5481 146.1589,253.3437 Q145.1986,252.123 145.1986,249.8281 Q145.1986,247.5169 146.1589,246.3125 Q147.1354,245.0918 148.9909,245.0918 Q149.4954,245.0918 149.9674,245.2057 Q150.4557,245.3033 150.8626,245.5312 L150.8626,247.5332 Q150.4069,247.11 149.9674,246.9147 Q149.528,246.7031 149.0723,246.7031 Q148.0794,246.7031 147.5749,247.5006 Q147.0703,248.2819 147.0703,249.8281 Q147.0703,251.358 147.5749,252.1393 Q148.0794,252.9205 149.0723,252.9205 Q149.528,252.9205 149.9674,252.7252 Q150.4069,252.5299 150.8626,252.1067 L150.8626,254.1087 Z " fill="#FFFFFF"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="50" x="171.875" y="242.7755">«Class»</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="41.6667" x="176.0417" y="266.4525">JButton</text><line style="stroke:#78C2AD;stroke-width:1.0416666666666667;" x1="35.9375" x2="326.5625" y1="279.5715" y2="279.5715"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="59.375" x="46.3542" y="299.5824">+JButton()</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="125" x="46.3542" y="323.3373">+JButton(text: String)</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="189.5833" x="46.3542" y="347.0922">+JButton(text: String, icon: Icon)</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="110.4167" x="46.3542" y="370.8471">+JButton(a: Action)</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="115.625" x="46.3542" y="394.6019">+JButton(icon: Icon)</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="259.375" x="46.3542" y="418.3568">+getAccessibleContext(): AccessibleContext</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="136.4583" x="46.3542" y="442.1117">+getUIClassID(): String</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="163.5417" x="46.3542" y="465.8666">+isDefaultButton(): boolean</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="172.9167" x="46.3542" y="489.6215">+isDefaultCapable(): boolean</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="135.4167" x="46.3542" y="513.3764">#paramString(): String</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="95.8333" x="46.3542" y="537.1312">+removeNotify()</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="269.7917" x="46.3542" y="560.8861">+setDefaultCapable(defaultCapable: boolean)</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="69.7917" x="46.3542" y="584.641">+updateUI()</text></g><!--MD5=[2c64380ff6aad193bc60aec0b94c6449]
+class AbstractButton--><g id="elem_AbstractButton"><rect codeLine="24" fill="#86C8B5" height="59.7799" id="AbstractButton" rx="4.1667" ry="4.1667" style="stroke:#78C2AD;stroke-width:1.0416666666666667;" width="143.75" x="109.375" y="71.875"/><ellipse cx="123.9583" cy="101.7649" rx="10.4167" ry="10.4167" style="stroke:#6CAF9C;stroke-width:1.0416666666666667;fill:none;"/><path d="M123.5514,98.7213 L122.7051,102.4485 L124.4141,102.4485 L123.5514,98.7213 Z M122.4609,97.0774 L124.6582,97.0774 L127.1159,106.192 L125.3092,106.192 L124.7559,103.9459 L122.347,103.9459 L121.7936,106.192 L119.987,106.192 L122.4609,97.0774 Z " fill="#FFFFFF"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="106.25" x="140.625" y="94.8588">«Abstract Class»</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" font-style="italic" lengthAdjust="spacing" textLength="87.5" x="150" y="118.5359">AbstractButton</text></g><!--MD5=[6deb5f454e74690e50827f734fb9416b]
+class Accessible--><g id="elem_Accessible"><rect codeLine="32" fill="#86C8B5" height="59.7799" id="Accessible" rx="4.1667" ry="4.1667" style="stroke:#78C2AD;stroke-width:1.0416666666666667;" width="110.4167" x="126.0417" y="727.0833"/><ellipse cx="140.625" cy="756.9733" rx="10.4167" ry="10.4167" style="stroke:#6CAF9C;stroke-width:1.0416666666666667;fill:none;"/><path d="M137.5163,754.1412 L137.5163,752.5462 L142.9362,752.5462 L142.9362,754.1412 L141.1296,754.1412 L141.1296,760.0657 L142.9362,760.0657 L142.9362,761.6608 L137.5163,761.6608 L137.5163,760.0657 L139.3229,760.0657 L139.3229,754.1412 L137.5163,754.1412 Z " fill="#FFFFFF"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="72.9167" x="157.2917" y="750.0671">«Interface»</text><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="11.4583" font-style="italic" lengthAdjust="spacing" textLength="61.4583" x="163.0208" y="773.7442">Accessible</text></g><!--MD5=[902e1b144e285eea4019ca06c0b97cb8]
+reverse link AbstractButton to JButton--><g id="link_AbstractButton_JButton"><path codeLine="26" d="M181.25,152.2188 C181.25,171.5208 181.25,194.9375 181.25,219.6667 " fill="none" id="AbstractButton-backto-JButton" style="stroke:#78C2AD;stroke-width:3.125;"/><polygon fill="none" points="173.9583,152.1042,181.25,131.2708,188.5417,152.1042,173.9583,152.1042" style="stroke:#78C2AD;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="52.0833" x="187.5" y="180.3528">extends</text></g><!--MD5=[33a1c706adb3e067ed97f950b94ea069]
+link JButton to Accessible--><g id="link_JButton_Accessible"><path codeLine="34" d="M181.25,597.25 C181.25,637.4063 181.25,676.5 181.25,705.8125 " fill="none" id="JButton-to-Accessible" style="stroke:#78C2AD;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="188.5417,706.2188,181.25,727.0521,173.9583,706.2188,188.5417,706.2188" style="stroke:#78C2AD;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="75" x="187.5" y="648.0611">implements</text></g><!--MD5=[c04c4559921cf0c520ec4da127f26293]
+@startuml classDiagram
+
+    !theme minty
+    skinparam classAttributeIconSize 0
+    hide empty members   
+
+    package javax.swing <<Frame>> {
+
+        class JButton <<Class>> {
+            + JButton()
+            + JButton(text: String)
+            + JButton(text: String, icon: Icon)
+            + JButton(a: Action)
+            + JButton(icon: Icon)
+            + getAccessibleContext(): AccessibleContext        
+            + getUIClassID(): String
+            + isDefaultButton(): boolean
+            + isDefaultCapable(): boolean
+            # paramString(): String
+            + removeNotify()
+            + setDefaultCapable(defaultCapable: boolean)
+            + updateUI()
+        }
+
+        abstract AbstractButton <<Abstract Class>>        
+
+        AbstractButton <|- - JButton : extends
+
+    }
+
+    package javax.accessibility <<Frame>> {
+
+        interface Accessible <<Interface>>
+
+        JButton ..|> Accessible : implements
+    }    
+
+@enduml
+
+@startuml classDiagram
+
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #fff
+    HyperLinkColor #fd7e14
+    LineColor #6caf9c
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor #78c2ad-#6caf9c
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #f3969a
+    FontColor #6cc3d5
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #343a40
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #fff
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #f4a1a4-#f3969a
+	FontColor #78c2ad
+	BorderColor #f3969a
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5    
+		LineColor #78c2ad
+		LineThickness 1.0
+		FontColor #6caf9c
+	}
+	server {
+			FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	}
+	arrow {
+		FontColor #6caf9c
+		LineColor #6caf9c
+	}
+	group {
+		BackGroundColor #f8f9fa
+		LineColor #dfe0e1
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+		LineColor #78c2ad
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #fff
+		LineColor #61b0c0
+		BackGroundColor #6cc3d5
+	}
+	separator {
+		LineColor #f3969a
+		BackGroundColor #f3969a-#db878b
+		FontColor #fff
+	}
+	milestone {
+		FontColor #6cc3d5
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #f3969a
+		LineColor #db878b
+	}
+	timeline {
+		BackgroundColor #f3969a
+		FontColor #fff
+	}
+	closed {
+		BackgroundColor #e6b95d
+		FontColor #fff
+	}
+  }
+</style>
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #343a40
+skinparam stereotype {
+    CBackgroundColor #f4a1a4
+    CBorderColor #db878b
+    ABackgroundColor #67d1a7
+    ABorderColor #4db88d
+    IBackgroundColor #ff8662
+    IBorderColor #e66c49
+    EBackgroundColor #ffd376
+    EBorderColor #e6b95d
+    NBackgroundColor #7bc9d9
+    NBorderColor #61b0c0
+}
+skinparam title {
+	FontColor	                 #6caf9c
+	BorderColor	                 #db878b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #f4a1a4-#f3969a
+}
+
+skinparam legend {
+	BackgroundColor #f3969a
+	BorderColor #db878b
+	FontColor #f8f9fa
+}
+
+skinparam swimlane {
+	BorderColor #6cc3d5
+	BorderThickness 2
+	TitleBackgroundColor  #f4a1a4-#f3969a
+	TitleFontColor #78c2ad
+}
+
+
+skinparam activity {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	BarColor #56cc9d
+	StartColor #6cc3d5
+	EndColor #6cc3d5
+	DiamondBackgroundColor #f4a1a4
+  	DiamondBorderColor #db878b
+  	DiamondFontColor #fff
+}
+
+
+skinparam participant {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #78c2ad
+	FontColor #fff
+}
+
+
+skinparam sequence {
+	BorderColor #78c2ad
+	TitleFontColor #78c2ad
+	BackgroundColor transparent
+	StartColor #78c2ad
+	EndColor #78c2ad
+	BoxBackgroundColor transparent
+	BoxBorderColor #343a40
+	BoxFontColor #343a40
+	DelayFontColor #343a40
+	LifeLineBorderColor #f3969a
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #db878b
+	GroupBorderColor #343a40
+	GroupFontColor #343a40
+	GroupHeaderFontColor #6cc3d5
+	GroupBackgroundColor #f3969a
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #343a40
+    DividerBorderColor #343a40
+    DividerBorderThickness 2
+    DividerFontColor #f8f9fa
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #343a40
+	ReferenceFontColor #343a40
+	ReferenceHeaderFontColor #6cc3d5
+	ReferenceHeaderBackgroundColor #f3969a
+	StereotypeFontColor #fff
+}
+
+
+skinparam partition {
+	BorderColor #78c2ad
+	FontColor #78c2ad
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam control {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam entity {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam boundary {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam agent {
+	BackgroundColor #ffce67
+	BorderColor #ffd376
+	FontColor #343a40
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #6cc3d5
+	BorderColor #61b0c0
+	FontColor #fff
+}
+
+
+skinparam artifact {
+	BackgroundColor #343a40
+	BorderColor #2f343a
+	FontColor #f8f9fa
+}
+
+
+skinparam component {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam interface {
+	BackgroundColor  #e66c49
+	BorderColor  #ff7851
+	FontColor #343a40
+}
+
+
+skinparam storage {
+	BackgroundColor #ffce67
+  	BorderColor #e6b95d
+	FontColor #fff
+}
+
+
+skinparam node {
+	BackgroundColor  #f3969a
+	BorderColor #f8f9fa
+	FontColor #f8f9fa
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #343a40
+}
+
+
+skinparam database {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam class {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	HeaderBackgroundColor #86c8b5
+	StereotypeFontColor #343a40
+	BorderThickness 1
+	AttributeFontColor #343a40
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	StereotypeFontColor #343a40
+	BorderThickness 1
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	BorderThickness 2
+	StereotypeFontColor #78c2ad
+}
+
+
+skinparam rectangle {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	BackgroundColor #f4a1a4
+	BorderThickness 2
+	StereotypeFontColor #78c2ad
+}
+
+
+skinparam package {
+	BackgroundColor #f3969a
+  	BorderColor #78c2ad
+	FontColor #78c2ad
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #f4a1a4
+  	BorderColor #ffce67
+	FontColor #ffce67
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #f4a1a4
+  	BorderColor #6cc3d5
+	FontColor #6cc3d5
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	StartColor #6cc3d5
+	EndColor #6cc3d5
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam card {
+	BackgroundColor #6cc3d5
+	BorderColor #61b0c0
+	FontColor #fff
+}
+
+
+skinparam file {
+	BackgroundColor #db878b
+	BorderColor #f8f9fa
+	FontColor #f8f9fa
+}
+
+
+skinparam stack {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+    skinparam classAttributeIconSize 0
+    hide empty members   
+
+    package javax.swing <<Frame>> {
+
+        class JButton <<Class>> {
+            + JButton()
+            + JButton(text: String)
+            + JButton(text: String, icon: Icon)
+            + JButton(a: Action)
+            + JButton(icon: Icon)
+            + getAccessibleContext(): AccessibleContext        
+            + getUIClassID(): String
+            + isDefaultButton(): boolean
+            + isDefaultCapable(): boolean
+            # paramString(): String
+            + removeNotify()
+            + setDefaultCapable(defaultCapable: boolean)
+            + updateUI()
+        }
+
+        abstract AbstractButton <<Abstract Class>>        
+
+        AbstractButton <|- - JButton : extends
+
+    }
+
+    package javax.accessibility <<Frame>> {
+
+        interface Accessible <<Interface>>
+
+        JButton ..|> Accessible : implements
+    }    
+
+@enduml
+
+PlantUML version 1.2022.6(Tue Jun 21 14:34:49 BRT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: pt
+Country: BR
+--></g></svg>
