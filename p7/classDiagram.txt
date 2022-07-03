@@ -1,16 +1,37 @@
 @startuml classDiagram
 
     skinparam classAttributeIconSize 0
+    hide empty members   
 
-    class JButton <<class>> {        
-        + getAccessibleContext(): AccessibleContext        
-        + getUIClassID(): String
-        + isDefaultButton(): boolean
-        + isDefaultCapable(): boolean
-        # paramString(): String
-        + removeNotify()
-        + setDefaultCapable(defaultCapable: boolean)
-        + updateUI()
+    package javax.swing <<Frame>> {
+
+        class JButton <<Class>> {
+            + JButton()
+            + JButton(text: String)
+            + JButton(text: String, icon: Icon)
+            + JButton(a: Action)
+            + JButton(icon: Icon)
+            + getAccessibleContext(): AccessibleContext        
+            + getUIClassID(): String
+            + isDefaultButton(): boolean
+            + isDefaultCapable(): boolean
+            # paramString(): String
+            + removeNotify()
+            + setDefaultCapable(defaultCapable: boolean)
+            + updateUI()
+        }
+
+        abstract AbstractButton <<Abstract Class>>        
+
+        AbstractButton <|-- JButton : extends
+
     }
+
+    package javax.accessibility <<Frame>> {
+
+        interface Accessible <<Interface>>
+
+        JButton ..|> Accessible : implements
+    }    
 
 @enduml
