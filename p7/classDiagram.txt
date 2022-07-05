@@ -1,8 +1,8 @@
 @startuml classDiagram
-
-    !theme minty
+    
     skinparam classAttributeIconSize 0
-    hide empty members   
+    hide empty members
+    !theme amiga   
 
     package javax.swing <<Frame>> {
 
