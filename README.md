@@ -1,4 +1,4 @@
 # p7
-Conheça o PlantUML e desenvolva diagramas: Classe (UML): [**ver detalhes**](https://aprendacodar.blogspot.com/2022/07/conheca-o-plantuml-e-desenvolva.html).
+Iniciou as aulas de Engenharia de Software sobre UML e não sabes qual software usar para fazer aquele Diagrama de Classe? Conheça o PlantUML por meio deste post sensacional! Construa o diagrama do zero, representando Classes, Métodos, Pacotes, Relacionamentos e muito mais! [**:arrow_upper_right:**](https://aprendacodar.blogspot.com/2022/07/conheca-o-plantuml-e-desenvolva.html)
 
 [![thumb](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgazXRFABcwE3__FhHRJxXEHtxrkq45eu_Wu05LIYfgO69db0gmUS5oA_OghE9fgufsylglQn1oJkUWMq9vUPrbMo59srecpjq6VPLJF_jTuQtFPbQ2w3cjG3UPFwLM8dj0wvdkS0zdyDO5XXKZ-rVtSuXNgjAfEoi0ztdPzSeNgdFz3KBOxHJlLUfj/s1600/class-diagram-JButton.png)](https://aprendacodar.blogspot.com/2022/07/conheca-o-plantuml-e-desenvolva.html)
